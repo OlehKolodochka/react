@@ -1,0 +1,12 @@
+.target{
+   background: black;
+   color: orangered;
+   width: 250px;
+   margin-bottom: 20px;
+}
+
+.point{
+   background: orangered;
+   width: 250px;
+   margin-bottom: 20px;
+}
